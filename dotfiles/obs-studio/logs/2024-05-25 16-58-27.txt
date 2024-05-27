@@ -1,0 +1,113 @@
+16:58:27.651: [Safe Mode] Unclean shutdown detected!
+16:58:29.126: [Safe Mode] User elected to launch normally.
+16:58:29.127: Using EGL/X11
+16:58:29.128: CPU Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+16:58:29.128: CPU Speed: 799.978MHz
+16:58:29.129: Physical Cores: 6, Logical Cores: 12
+16:58:29.129: Physical Memory: 15877MB Total, 12817MB Free
+16:58:29.129: Kernel Version: Linux 6.9.1-arch1-1
+16:58:29.129: Distribution: "EndeavourOS" Unknown
+16:58:29.129: Desktop Environment: Hyprland (Hyprland)
+16:58:29.129: Session Type: wayland
+16:58:29.129: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.24.1
+16:58:29.131: Qt Version: 6.7.0 (runtime), 6.7.0 (compiled)
+16:58:29.131: Portable mode: false
+16:58:29.229: OBS 30.1.2-1 (linux)
+16:58:29.229: ---------------------------------
+16:58:29.230: ---------------------------------
+16:58:29.230: audio settings reset:
+16:58:29.230: 	samples per sec: 48000
+16:58:29.230: 	speakers:        2
+16:58:29.230: 	max buffering:   960 milliseconds
+16:58:29.230: 	buffering type:  dynamically increasing
+16:58:29.236: ---------------------------------
+16:58:29.236: Initializing OpenGL...
+16:58:29.433: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 630 (CML GT2)
+16:58:29.433: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.0.7-arch1.3, shading language 4.60
+16:58:29.465: ---------------------------------
+16:58:29.465: video settings reset:
+16:58:29.465: 	base resolution:   1920x1080
+16:58:29.465: 	output resolution: 1280x720
+16:58:29.465: 	downscale filter:  Bicubic
+16:58:29.465: 	fps:               30/1
+16:58:29.465: 	format:            NV12
+16:58:29.465: 	YUV mode:          Rec. 709/Partial
+16:58:29.465: NV12 texture support enabled
+16:58:29.465: P010 texture support not available
+16:58:29.470: Audio monitoring device:
+16:58:29.470: 	name: Default
+16:58:29.470: 	id: default
+16:58:29.471: ---------------------------------
+16:58:29.477: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:58:29.484: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:58:29.490: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:58:29.490: Failed to initialize module 'decklink.so'
+16:58:29.622: [pipewire] No captures available
+16:58:29.684: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:58:29.684: FFmpeg VAAPI H264 encoding not supported
+16:58:29.684: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:58:29.684: FFmpeg VAAPI AV1 encoding not supported
+16:58:29.684: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:58:29.684: FFmpeg VAAPI HEVC encoding not supported
+16:58:29.916: ---------------------------------
+16:58:29.916:   Loaded Modules:
+16:58:29.916:     wlrobs.so
+16:58:29.916:     text-freetype2.so
+16:58:29.916:     rtmp-services.so
+16:58:29.916:     obs-x264.so
+16:58:29.916:     obs-webrtc.so
+16:58:29.916:     obs-vst.so
+16:58:29.916:     obs-transitions.so
+16:58:29.916:     obs-qsv11.so
+16:58:29.916:     obs-outputs.so
+16:58:29.916:     obs-libfdk.so
+16:58:29.916:     obs-filters.so
+16:58:29.916:     obs-ffmpeg.so
+16:58:29.916:     linux-v4l2.so
+16:58:29.916:     linux-pulseaudio.so
+16:58:29.916:     linux-pipewire.so
+16:58:29.916:     linux-jack.so
+16:58:29.916:     linux-capture.so
+16:58:29.916:     linux-alsa.so
+16:58:29.917:     image-source.so
+16:58:29.917:     frontend-tools.so
+16:58:29.917:     decklink-output-ui.so
+16:58:29.917:     decklink-captions.so
+16:58:29.917: ---------------------------------
+16:58:29.918: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+16:58:29.919: ==== Startup complete ===============================================
+16:58:29.978: All scene data cleared
+16:58:29.978: ------------------------------------------------
+16:58:29.990: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.6) 15.0.0'
+16:58:29.990: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+16:58:29.990: pulse-input: Started recording from 'auto_null.monitor' (default)
+16:58:29.990: [Loaded global audio device]: 'Desktop Audio'
+16:58:29.995: Switched to scene 'Scene'
+16:58:29.995: ------------------------------------------------
+16:58:29.995: Loaded scenes:
+16:58:29.995: - scene 'Scene':
+16:58:29.995:     - source: 'Wayland output(dmabuf)' (wlrobs-dmabuf)
+16:58:29.995: ------------------------------------------------
+16:58:30.575: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+16:58:30.575: 
+16:58:43.128: User added source 'Wayland output(scpy)' (wlrobs-scpy) to scene 'Scene'
+16:59:00.506: User Removed source 'Wayland output(scpy)' (wlrobs-scpy) from scene 'Scene'
+16:59:31.098:   OpenType support missing for "Open Sans", script 11
+16:59:31.115:   OpenType support missing for "Open Sans", script 12
+16:59:31.144:   OpenType support missing for "Open Sans", script 16
+16:59:31.167:   OpenType support missing for "Open Sans", script 20
+16:59:49.271: Number of remaining views: 1
+16:59:49.271: ---------------------------------
+16:59:49.271: video settings reset:
+16:59:49.271: 	base resolution:   1920x1080
+16:59:49.271: 	output resolution: 1280x720
+16:59:49.271: 	downscale filter:  Bicubic
+16:59:49.271: 	fps:               60/1
+16:59:49.271: 	format:            NV12
+16:59:49.271: 	YUV mode:          Rec. 709/Partial
+16:59:49.271: NV12 texture support enabled
+16:59:49.271: P010 texture support not available
+16:59:49.288: Settings changed (general, outputs, video)
+16:59:49.288: ------------------------------------------------
+17:00:15.325: NV12 texture support enabled
+17:00:15.325: P010 texture support not available

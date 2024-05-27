@@ -1,0 +1,7 @@
+
+2024/05/25 (17:49:41) | ===> btop++ v.1.3.2
+2024/05/25 (17:49:41) | ERROR: No tty detected!
+btop++ needs an interactive shell to run.
+
+2024/05/25 (18:03:33) | ===> btop++ v.1.3.2
+2024/05/25 (18:03:33) | ERROR: Couldn't determine terminal size of "STDOUT_FILENO"!

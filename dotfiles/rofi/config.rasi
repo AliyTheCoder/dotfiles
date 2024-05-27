@@ -1,0 +1,20 @@
+
+configuration {
+	modi:                       "drun,run,filebrowser";
+	font:                       "Fira Code SemiBold 12";
+    show-icons:                 true;
+    display-drun:               "Apps";
+    display-run:                "Run";
+    display-filebrowser:        "Files";
+    display-window:             "Windows";
+	drun-display-format:        "{name}";
+	hover-select:               true;
+	me-select-entry:            "MouseSecondary";
+    me-accept-entry:            "MousePrimary";
+	window-format:              "{w} · {c} · {t}";
+	dpi:						1;
+}
+
+/* ---- Load wallust colors ---- */
+@theme "~/.config/rofi/simple-tokyonight.rasi"
+

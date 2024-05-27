@@ -1,0 +1,90 @@
+16:46:39.401: Using EGL/X11
+16:46:39.401: CPU Name: Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+16:46:39.401: CPU Speed: 899.989MHz
+16:46:39.402: Physical Cores: 6, Logical Cores: 12
+16:46:39.402: Physical Memory: 15877MB Total, 12845MB Free
+16:46:39.402: Kernel Version: Linux 6.9.1-arch1-1
+16:46:39.403: Distribution: "EndeavourOS" Unknown
+16:46:39.403: Desktop Environment: Hyprland (Hyprland)
+16:46:39.403: Session Type: wayland
+16:46:39.403: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.24.1
+16:46:39.405: Qt Version: 6.7.0 (runtime), 6.7.0 (compiled)
+16:46:39.405: Portable mode: false
+16:46:39.565: OBS 30.1.2-1 (linux)
+16:46:39.565: ---------------------------------
+16:46:39.566: ---------------------------------
+16:46:39.566: audio settings reset:
+16:46:39.566: 	samples per sec: 48000
+16:46:39.566: 	speakers:        2
+16:46:39.566: 	max buffering:   960 milliseconds
+16:46:39.566: 	buffering type:  dynamically increasing
+16:46:39.569: ---------------------------------
+16:46:39.569: Initializing OpenGL...
+16:46:39.687: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 630 (CML GT2)
+16:46:39.687: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 24.0.7-arch1.3, shading language 4.60
+16:46:39.738: ---------------------------------
+16:46:39.738: video settings reset:
+16:46:39.738: 	base resolution:   1920x1080
+16:46:39.738: 	output resolution: 1280x720
+16:46:39.738: 	downscale filter:  Bicubic
+16:46:39.738: 	fps:               30/1
+16:46:39.738: 	format:            NV12
+16:46:39.738: 	YUV mode:          Rec. 709/Partial
+16:46:39.738: NV12 texture support enabled
+16:46:39.738: P010 texture support not available
+16:46:39.747: Audio monitoring device:
+16:46:39.747: 	name: Default
+16:46:39.747: 	id: default
+16:46:39.747: ---------------------------------
+16:46:39.757: Failed to load 'en-US' text for module: 'decklink-captions.so'
+16:46:39.766: Failed to load 'en-US' text for module: 'decklink-output-ui.so'
+16:46:39.774: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+16:46:39.774: Failed to initialize module 'decklink.so'
+16:46:40.094: [pipewire] No captures available
+16:46:40.318: VAAPI: Failed to initialize display in vaapi_device_h264_supported
+16:46:40.318: FFmpeg VAAPI H264 encoding not supported
+16:46:40.318: VAAPI: Failed to initialize display in vaapi_device_av1_supported
+16:46:40.318: FFmpeg VAAPI AV1 encoding not supported
+16:46:40.319: VAAPI: Failed to initialize display in vaapi_device_hevc_supported
+16:46:40.319: FFmpeg VAAPI HEVC encoding not supported
+16:46:40.617: ---------------------------------
+16:46:40.617:   Loaded Modules:
+16:46:40.617:     wlrobs.so
+16:46:40.617:     text-freetype2.so
+16:46:40.617:     rtmp-services.so
+16:46:40.617:     obs-x264.so
+16:46:40.617:     obs-webrtc.so
+16:46:40.617:     obs-vst.so
+16:46:40.617:     obs-transitions.so
+16:46:40.617:     obs-qsv11.so
+16:46:40.617:     obs-outputs.so
+16:46:40.617:     obs-libfdk.so
+16:46:40.617:     obs-filters.so
+16:46:40.617:     obs-ffmpeg.so
+16:46:40.617:     linux-v4l2.so
+16:46:40.617:     linux-pulseaudio.so
+16:46:40.617:     linux-pipewire.so
+16:46:40.617:     linux-jack.so
+16:46:40.617:     linux-capture.so
+16:46:40.617:     linux-alsa.so
+16:46:40.617:     image-source.so
+16:46:40.617:     frontend-tools.so
+16:46:40.617:     decklink-output-ui.so
+16:46:40.617:     decklink-captions.so
+16:46:40.617: ---------------------------------
+16:46:40.618: QWidget::setTabOrder: 'first' and 'second' must be in the same window
+16:46:40.619: ==== Startup complete ===============================================
+16:46:40.698: All scene data cleared
+16:46:40.698: ------------------------------------------------
+16:46:40.710: pulse-input: Server name: 'PulseAudio (on PipeWire 1.0.6) 15.0.0'
+16:46:40.710: pulse-input: Audio format: float32le, 48000 Hz, 2 channels
+16:46:40.711: pulse-input: Started recording from 'auto_null.monitor' (default)
+16:46:40.711: [Loaded global audio device]: 'Desktop Audio'
+16:46:40.715: Switched to scene 'Scene'
+16:46:40.716: ------------------------------------------------
+16:46:40.716: Loaded scenes:
+16:46:40.716: - scene 'Scene':
+16:46:40.716:     - source: 'Wayland output(dmabuf)' (wlrobs-dmabuf)
+16:46:40.716: ------------------------------------------------
+16:46:41.295: adding 42 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Desktop Audio)
+16:46:41.295: 
